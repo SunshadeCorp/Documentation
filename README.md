@@ -1,4 +1,4 @@
-# easyBMS
+# EasyBMS
 
 easyBMS is a battery management system for used second life batteries from electric vehicles for solar energy installations.
 Currently, easyBMS integrates primarily with Volkswagen MEB batteries, both 8s and 12s types, and Sungrow Hybrid inverters.
