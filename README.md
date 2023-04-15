@@ -1,6 +1,6 @@
 # EasyBMS
 
-easyBMS is a battery management system for lithium-ion battery modules from electric vehicles for solar energy installations.
+easyBMS is a battery management system for lithium-ion battery modules for solar energy installations.
 Currently, easyBMS integrates primarily with NMC batteries, both 8s and 12s types, and Sungrow Hybrid inverters.
 The battery management system consists of two parts: The BMS slaves and the BMS master together with a monitoring application.
 
